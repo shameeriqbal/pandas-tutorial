@@ -16,8 +16,8 @@ editor shipped with Anaconda.
 
 # Using this project folder
 This project folder has two folders:  
-1. Raw python code  
-+ IPython notebooks with annotations corresponding to python code
+   1. Raw python code  
+   + IPython notebooks with annotations corresponding to python code
 
 ## Index
 1. Introduction to Python
