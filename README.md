@@ -21,11 +21,10 @@ This project folder has two folders:
 
 ## Index
 1. Introduction to Python
-  * [Hello World!](python/1.hello_world.py)
-  * Basic function!
-  * Control structures
-  * Data types
-  * Data structures
+  * [Hello World!](notebooks/1.hello_world.pynb)
+  * [Basic function](notebooks/2.basic_function.pynb)
+  * [Control structures]
+  * Data types and data structures
 2. Introduction to Numpy
 3. Introduction to Matplotlib
 4. Pandas

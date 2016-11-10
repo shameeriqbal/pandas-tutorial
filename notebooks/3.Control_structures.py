@@ -54,8 +54,12 @@ if __name__ == '__main__':
         if i < m:
             i = i +1
             print_n_stars(i)
+        elif i==m:
+            i = i +1
+            print('Elif reached')
         else:
+            print('Stopping the loop')
             break
 
 
-# However, this function call will not imported when imported in other scripts.
+# However, this function call will not be called when imported in other scripts.
